@@ -18,7 +18,6 @@ I'm Joe Tavinor and I'm currently working towards becoming a professional dev. M
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 
 
-
 ## I'm currently working on 🔭
 My current project is building an app to build habits with a goal of long-term habit retention. I am using React with Redux for the front-end, and Node with Express to build out the API. On top of this I am learning Typescipt and TDD with Jest & Enzyme, which I am utilising in this project.  
 
@@ -34,11 +33,15 @@ Alongside this I am using TDD to build out the Slow Habits App. On the Front-end
 I have completed multiple projects, usually adding new libraries and skills with each one. These are my favourite two projects:
 
 ### Dengie Takeaways
+<a href="https://jt-dengie-takeaways.herokuapp.com/">Link to Dengie Takeaways</a>
+
 This is a demo takeaway app I made and deployed for my local area using React. I also used Redux for the first time, and after initially finding it quite confusing, I now love being able to store and access all state in a central store, as well as using Redux middleware to handle all API requests. The backend was built using Node with Express and MongoDB.  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTavinor&repo=DengieTakeawayApp)](https://github.com/JTavinor/DengieTakeawayApp)      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTavinor&repo=DengieTakeawayAppApi)](https://github.com/JTavinor/DengieTakeawayAppApi)
 
 ### Word Association Game
+<a href="http://jtwordgame.herokuapp.com/">Word Association Game</a>  
+
 A game where users have 3 lives or 90 seconds to score as much as possible by guessing an associated word for each prompt given (Words and associated words got via a 3rd party API). I added some cool features such as the ability to create an account, where you could delete scores from the leaderboard as well as seeing answers for any words you got wrong. Front-end made with React. Back-end made using Node with Express and MongoDB.  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTavinor&repo=synonym_game)](https://github.com/JTavinor/synonym_game)      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTavinor&repo=synonym-game-backend)](https://github.com/JTavinor/synonym-game-backend)
