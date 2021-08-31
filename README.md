@@ -40,7 +40,7 @@ This is a demo takeaway app I made and deployed for my local area using React. I
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTavinor&repo=DengieTakeawayApp)](https://github.com/JTavinor/DengieTakeawayApp)      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTavinor&repo=DengieTakeawayAppApi)](https://github.com/JTavinor/DengieTakeawayAppApi)
 
 ### Word Association Game
-<a href="http://jtwordgame.herokuapp.com/">Word Association Game</a>  
+<a href="http://jtwordgame.herokuapp.com/">Link to Word Association Game</a>  
 
 A game where users have 3 lives or 90 seconds to score as much as possible by guessing an associated word for each prompt given (Words and associated words got via a 3rd party API). I added some cool features such as the ability to create an account, where you could delete scores from the leaderboard as well as seeing answers for any words you got wrong. Front-end made with React. Back-end made using Node with Express and MongoDB.  
 
