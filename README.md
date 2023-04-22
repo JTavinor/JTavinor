@@ -18,12 +18,7 @@ I'm Joe Tavinor and I'm currently working towards becoming a professional dev. M
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 
 
-## I’m currently learning 🌱
-As mentioned above I am currently learning Typescript. I'm loving the ability to set types (type hinting was one of my favourite Python features), as well as explicitly being able to see more issues in the code in the editor.  
-
-Alongside this I am using TDD to build out the Slow Habits App. On the Front-end I am using Jest with Enzyme, and on the Back-end Jest with SuperTest. Although at this learning stage I am spending more time writing tests then functionality, I am looking forward to the reliability as well as confidence in refactoring/maintaining a larger app that testing will give. 
-
-## Other projects
+## Projects
 I have completed multiple projects, usually adding new libraries and skills with each one. These are my favourite two projects:
 
 ### Dengie Takeaways
