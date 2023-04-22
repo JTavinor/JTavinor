@@ -18,12 +18,6 @@ I'm Joe Tavinor and I'm currently working towards becoming a professional dev. M
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 
 
-## I'm currently working on 🔭
-My current project is building an app to build habits with a goal of long-term habit retention. I am using React with Redux for the front-end, and Node with Express to build out the API. On top of this I am learning Typescipt and TDD with Jest & Enzyme, which I am utilising in this project.  
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTavinor&repo=slow-habits)](https://github.com/JTavinor/slow-habits)      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTavinor&repo=slow-habits-api)](https://github.com/JTavinor/slow-habits-api)
-
 ## I’m currently learning 🌱
 As mentioned above I am currently learning Typescript. I'm loving the ability to set types (type hinting was one of my favourite Python features), as well as explicitly being able to see more issues in the code in the editor.  
 
